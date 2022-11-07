@@ -23,7 +23,7 @@ local function Main(plugin, savedState)
 
 	local toggleButton = plugin:button(
 		toolbar,
-		"Hoarcekat",
+		"Hoarcekat TEST",
 		"Open the Hoarcekat window",
 		"rbxassetid://4621571957"
 	)
